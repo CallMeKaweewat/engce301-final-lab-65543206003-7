@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engce301-final-lab-65543206003-7.md",
+                "file": "Readme.md.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "engce301-final-lab-65543206003-7"
+              "title": "Readme.md"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "engce301-final-lab-65543206003-7.md",
+                "file": "Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for engce301-final-lab-65543206003-7"
+              "title": "Backlinks for Readme.md"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "engce301-final-lab-65543206003-7.md",
+                "file": "Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from engce301-final-lab-65543206003-7"
+              "title": "Outgoing links from Readme.md"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "engce301-final-lab-65543206003-7.md"
+                "file": "Readme.md.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of engce301-final-lab-65543206003-7"
+              "title": "Outline of Readme.md"
             }
           },
           {
@@ -151,16 +151,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "engce301-final-lab-65543206003-7.md",
+                "file": "Readme.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "engce301-final-lab-65543206003-7"
+              "title": "Readme.md"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,13 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2d01762c8cbabc1",
+  "active": "bdbe18eff6ac219c",
   "lastOpenFiles": [
-    "Pasted image 20241024212313.png",
     "shiba.gif",
     "Pasted image 20241024211420.png",
+    "Readme.md.md",
+    "Pasted image 20241024212313.png",
     "Untitled.md",
-    "engce301-final-lab-65543206003-7.md",
     "Untitled"
   ]
 }
