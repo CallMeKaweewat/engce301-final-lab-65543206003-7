@@ -1,4 +1,5 @@
-![[shiba.gif]]
+![shiba](https://github.com/user-attachments/assets/966f7f5b-ef21-47a3-9d03-1fa7bd948a30)
+
 # How to start the project 
 
 
@@ -50,7 +51,7 @@ npm start
 
 **Result:**
 
-![[Pasted image 20241024211420.png]]
+![Pasted image 20241024211420](https://github.com/user-attachments/assets/c9fbe39c-aa1a-4e92-88c4-2eb985a8854d)
 
 
 # Step 2 : start my-app
@@ -73,4 +74,5 @@ npm run dev
 ```
 
 **Result:**
-![[Pasted image 20241024212313.png]]
+![Pasted image 20241024212313](https://github.com/user-attachments/assets/257b844c-36da-4e7c-b1bd-f6faa50b143c)
+
